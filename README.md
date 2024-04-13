@@ -1,5 +1,7 @@
 # QQ聊天记录导出
 
+本项目用于将 **非 QQNT** 的 Android 端 QQ/TIM 的聊天记录数据库转换为 HTML 文件，并转换图片、语音等部分特殊消息。 
+
 ## 关于其他平台（Windows, MacOS, iOS…）
 
 请看 [QQBackup/qq-win-db-key](https://github.com/QQBackup/qq-win-db-key)。
@@ -8,7 +10,7 @@
 
 省流：没时间维护，欢迎新 maintainer 与 PR（或者可以自行开个fork）。请提交到`dev`分支。
 
-同时，请参看[白羽夜星制作组](https://github.com/Hakuuyosei/QQHistoryExport)的改进版。
+同时，请参看[qq-win-db-key 中列出的改进版](https://github.com/QQBackup/qq-win-db-key/blob/master/%E6%95%99%E7%A8%8B%20-%20%E5%AE%89%E5%8D%93%E7%89%88QQ%E5%8F%8ATIM.md#%E8%A7%A3%E5%AF%86%E8%BD%AC%E6%8D%A2)。
 
 ## 运行方式
 
